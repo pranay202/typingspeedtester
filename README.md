@@ -1,2 +1,2 @@
-# typingtester
+# typingspeedtester
 Test your typing speed.
